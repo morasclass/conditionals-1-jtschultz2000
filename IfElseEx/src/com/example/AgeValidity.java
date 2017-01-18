@@ -11,9 +11,16 @@ import java.util.Scanner;
  *
  * @author anshenoy
  */
-public class AgeValidity {
+public class AgeValidity{
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
+	    int age = 16;
+	    if (age >= 18){
+		    System.out.println("drivingoverage");
+	    }
+	    else if (age < 18){
+		    System.out.println("drivingunderage");
+	    }
 
        
     }

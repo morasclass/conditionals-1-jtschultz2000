@@ -19,13 +19,22 @@ public class ShoppingCart {
 
         
         // Declare outOfStock variable and initialize it
-        
+        if num=2;
+	    System.out.println("in stock");
+	    else if 
+		    System.out.println("out of stock");
         
         // Test quantity and modify message if quantity > 1.  
-         
+	if num=2;
+	    System.out.println("in stock");
+	    else if 
+		    System.out.println("out of stock");
         
         // Test outOfStock and notify user in either case.  
-        
+	if num=2;
+	    System.out.println("in stock");
+	    else if 
+		    System.out.println("out of stock");
         
         
     }
