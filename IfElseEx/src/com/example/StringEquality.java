@@ -17,7 +17,7 @@ public class StringEquality {
 		String name = "";
 		System.out.println("Enter your name:");
 		name = in.next();
-		if( name.equals("Moe"))
+		if( name.equals("Justin"))
 			System.out.println("You are the king of rock and roll");
 
 		else

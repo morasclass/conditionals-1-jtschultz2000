@@ -2,8 +2,7 @@
 package com.example;
 
 public class ShoppingCart {
-
-    public static void main(String[] args) {
+    public static void main(String [] args){
         String custName = "Mary Smith";
         String itemDesc = "Shirt";
 
@@ -16,29 +15,22 @@ public class ShoppingCart {
 
 	// Calculating total cost
         total = (price*quantity)*tax;
-
+        
         
         // Declare outOfStock variable and initialize it
-        if num=2;
-	    System.out.println("in stock");
-	    else if 
-		    System.out.println("out of stock");
+        int outofStock=3;
         
         // Test quantity and modify message if quantity > 1.  
-	if num=2;
-	    System.out.println("in stock");
-	    else if 
-		    System.out.println("out of stock");
+	
+      
         
         // Test outOfStock and notify user in either case.  
-	if num=2;
-	    System.out.println("in stock");
-	    else if 
-		    System.out.println("out of stock");
+	if(outofStock>quantity){
+            System.out.println("item out of stock");
+        }
         
         
     }
-    
 }
 
 
